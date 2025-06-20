@@ -66,7 +66,7 @@ Matplotlib: Visualization of accuracy and predictions
      Its PCA-space distance from known faces exceeds a dynamic threshold (mean + 2 * std of training distances).
 
 # Project Files
-  # File	                                         Description
+     # File	                                         Description
 Face_Recognition_PCA_ANN.ipynb	   Main Jupyter Notebook containing code and results
 train_indices.csv               	 Indices of training samples for reproducibility
 test_indices.csv	                 Indices of testing samples
@@ -97,8 +97,8 @@ The following Python libraries are required:
   pip install -r requirements.txt
   
 # Author
- Asfiya Shaikh
- Bachelor of Computer Applications (BCA)
- Kristu Jayanti College, Bengaluru
- GitHub: github.com/Asfiyashaikh13
+    Asfiya Shaikh
+    Bachelor of Computer Applications (BCA)
+    Kristu Jayanti College, Bengaluru
+    GitHub: github.com/Asfiyashaikh13
 
