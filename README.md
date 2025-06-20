@@ -88,11 +88,17 @@ Matplotlib: Visualization of accuracy and predictions
 # Requirements
 The following Python libraries are required:
 > numpy
+
 > opencv-python
+
 > pandas
+
 > scikit-learn
+
 > matplotlib
+
 > tensorflow
+
 # You can install them using:
   pip install -r requirements.txt
   
