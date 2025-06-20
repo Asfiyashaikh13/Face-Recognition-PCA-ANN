@@ -67,11 +67,11 @@ Matplotlib: Visualization of accuracy and predictions
 
 # Project Files
      # File	                                         Description
-Face_Recognition_PCA_ANN.ipynb	   Main Jupyter Notebook containing code and results
-train_indices.csv               	 Indices of training samples for reproducibility
-test_indices.csv	                 Indices of testing samples
-accuracy_vs_k.png	                 Graph showing ANN accuracy vs PCA components
-README.md	                         Project documentation
+    Face_Recognition_PCA_ANN.ipynb	       Main Jupyter Notebook containing code and results
+    train_indices.csv               	  Indices of training samples for reproducibility
+    test_indices.csv	                 Indices of testing samples
+    accuracy_vs_k.png	                 Graph showing ANN accuracy vs PCA components
+    README.md	                           Project documentation
 
 # How to Run
 > Clone or download the repository.
