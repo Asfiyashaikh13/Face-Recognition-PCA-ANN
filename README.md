@@ -2,7 +2,7 @@
 
 This project presents a face recognition system built using Principal Component Analysis (PCA) for dimensionality reduction and Artificial Neural Networks (ANN) for classification. The system is capable of identifying known individuals and detecting unknown or imposter faces through a combination of PCA-space distance thresholds and ANN-based softmax confidence scores.
 
-Project Objectives
+# Project Objectives
 Extract meaningful facial features using PCA (eigenfaces)
 
 Classify faces using a trained Artificial Neural Network
